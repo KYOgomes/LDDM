@@ -1,16 +1,28 @@
-# navegacao
+# RecipeWise
 
-A new Flutter project.
+**RecipeWise** é um aplicativo desenvolvido em Flutter que visa proporcionar uma experiência rica e interativa na busca e visualização de receitas. Este projeto é ideal para quem deseja aprender mais sobre o desenvolvimento de aplicativos móveis utilizando a framework Flutter.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Navegação intuitiva entre as receitas.
+- Detalhes de cada receita, incluindo ingredientes e modo de preparo.
+- Integração com vídeos do YouTube para tutoriais de preparo.
+- Interface amigável e responsiva.
 
-A few resources to get you started if this is your first Flutter project:
+## Começando
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para começar a usar o RecipeWise, siga os passos abaixo:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pré-requisitos
+
+Certifique-se de que você possui os seguintes requisitos instalados:
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+
+### Instalação
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/seu-usuario/RecipeWise.git
